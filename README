@@ -1,1 +1,18 @@
-//
+/* *
+ * Des del teu compte de Github afegeix un README del projecte prjava02, i escriu les instruccions que
+ * has executat per fer els apartats 1, 5, 10 i 14 de la pràctica. També has d'afegir la resposta a les preguntes
+ * dels apartat 6, 7 i 12 de la pràctica.
+ *
+ *
+ * Pregunta 6: No, perque no hem fet un merge per a juntar les dues versions
+ * Pregunta 7: Si, perque es la branca en la que la hem posat
+ * Pregunta 12: perque li hem dit que fusioni la branca 0 amb el master i no al revés
+ *
+ * Comanda 1: git branch branca00
+ * Comanda 5: git checkout master
+ * Comanda 10: git checkout master
+ *             git merge branca00
+ * Comanda 14: git checkout branca00
+ *             git merge branca01   
+ *
+ */
